@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**ojhill/ojhill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello I'm O.J. 👋
+I am currently a student at Codeup, a 22-week career accelerator program in Texas. I like to use my creativity and problem-solving skills to develop projects. I would love to connect to share tips and tricks with each other!
 
 
 - 🔭 I’m currently working on my Capstone project.
@@ -10,4 +8,4 @@
 - 📫 How to reach me: ojhill98@gmail.com and https://www.linkedin.com/in/orenthal-hill-0473b1216/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love people and helping those in need
--->
+
