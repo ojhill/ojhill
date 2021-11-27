@@ -4,6 +4,7 @@ I am currently a student at Codeup, a 22-week career accelerator program in Texa
 
 - 🔭 I’m currently working on my Capstone project.
 - 🌱 I’m currently learning reactjs.
+- 📕 Skills: Javascript, HTML, CSS, Bootstrap, JQuery, AJAX, Java, MySQL.
 - 👯 I’m looking to collaborate on any project to futher help develop my skills as a software/web developer.
 - 📫 How to reach me: ojhill98@gmail.com and https://www.linkedin.com/in/orenthal-hill/
 - 💬 Ask me about my developer journey
